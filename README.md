@@ -10,7 +10,7 @@ Specifically, to submit your project you will be required to complete the follow
 ---
 Shareable Slides Link: https://docs.google.com/presentation/d/1N2NzKiKMe8it7zc30VwfmUiQACbvFyQm5xBzoxa3jO0/edit?usp=sharing
 
-**PASTE PUBLIC VIDEO LINK HERE: ___________________________**
+**PASTE PUBLIC VIDEO LINK HERE: https://drive.google.com/file/d/1IRg6H0-NljUcXG2pz8mKiehN879Vx-xd/view?usp=sharing **
 
 ---
 
