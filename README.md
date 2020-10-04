@@ -8,6 +8,7 @@ Specifically, to submit your project you will be required to complete the follow
 - Navigate to your team's management page in the portal. Once there, indicate that you have successfully submitted your project on time and select which sponsor prize category you would like your project to be considered for (if any).
 
 ---
+Shareable Slides Link: https://docs.google.com/presentation/d/1N2NzKiKMe8it7zc30VwfmUiQACbvFyQm5xBzoxa3jO0/edit?usp=sharing
 
 **PASTE PUBLIC VIDEO LINK HERE: ___________________________**
 
